@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="925px" height="178px" viewBox="0 0 925 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="777px" height="185px" viewBox="0 0 777 185" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <title>stack logo</title>
     <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Group" sketch:type="MSLayerGroup" transform="translate(3.000000, -2.000000)">
-            <g id="Shape-+-Shape-copy" transform="translate(297.000000, 2.000000)" fill="#453A62" sketch:type="MSShapeGroup">
-                <path d="M37,212 L103.285714,118.001267 L37,24 L86.7142857,24 L153,118.001267 L86.7142857,212 L37,212 L37,212 Z" id="Shape" transform="translate(94.500000, 118.000000) rotate(-90.000000) translate(-94.500000, -118.000000) "></path>
-                <path d="M37,151 L103.285714,57.0012671 L37,-37 L86.7142857,-37 L153,57.0012671 L86.7142857,151 L37,151 L37,151 Z" id="Shape-copy" transform="translate(94.500000, 57.000000) rotate(-90.000000) translate(-94.500000, -57.000000) "></path>
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(261.000000, 2.000000)">
+            <g id="Shape-+-Shape-copy" sketch:type="MSShapeGroup">
+                <path d="M37,212 L103.285714,118.001267 L37,24 L86.7142857,24 L153,118.001267 L86.7142857,212 L37,212 L37,212 Z" id="Shape" fill="#433B5F" transform="translate(94.500000, 118.000000) rotate(-90.000000) translate(-94.500000, -118.000000) "></path>
+                <path d="M37,151 L103.285714,57.0012671 L37,-37 L86.7142857,-37 L153,57.0012671 L86.7142857,151 L37,151 L37,151 Z" id="Shape-copy" fill="#5B5082" transform="translate(94.500000, 57.000000) rotate(-90.000000) translate(-94.500000, -57.000000) "></path>
             </g>
-            <g id="Shape-+-Shape-copy-2" transform="translate(864.183594, 90.685547) rotate(-90.000000) translate(-864.183594, -90.685547) translate(773.498047, 35.026693)" fill="#453A62" sketch:type="MSShapeGroup">
-                <path d="M35.5065104,145.864583 L99.1166295,55.6600701 L35.5065104,-34.546875 L83.2140997,-34.546875 L146.824219,55.6600701 L83.2140997,145.864583 L35.5065104,145.864583 L35.5065104,145.864583 Z" id="Shape" transform="translate(90.685547, 55.658854) rotate(-90.000000) translate(-90.685547, -55.658854) "></path>
-            </g>
-            <path d="M682.47945,179.441243 L744.299781,90.9731373 L682.47945,2.50264614 L728.844699,2.50264614 L852.480364,179.441243 L806.120112,179.441243 L767.484904,124.14987 L728.8422,179.441243 L682.47945,179.441243 L682.47945,179.441243 Z" id="Shape" fill="#5E5086" sketch:type="MSShapeGroup" transform="translate(767.424942, 90.751323) scale(-1, 1) translate(-767.424942, -90.751323) "></path>
-            <path d="M590.28324,179.106849 L555.152087,128.828278 L678.111121,128.828278 L678.111121,179.110915 L590.28324,179.110915 L590.28324,179.106849 Z M537.586511,53.6991579 L502.455358,3.42058663 L678.111121,3.42058663 L678.111121,53.6991579 L537.586511,53.6991579 L537.586511,53.6991579 Z" id="Shape" fill="#8F4E8B" sketch:type="MSShapeGroup" transform="translate(590.455358, 91.420587) rotate(180.000000) translate(-590.455358, -91.420587) "></path>
-            <path d="M705.596821,124.986884 L687.734629,99.4230924 L750.2523,99.4230924 L750.2523,124.988952 L705.596821,124.988952 L705.596821,124.986884 Z M660.941341,59.0488007 L750.2523,59.0488007 L750.2523,84.6125926 L678.803533,84.6125926 L660.941341,59.0488007 Z" id="Shape-copy" fill="#8F4E8B" sketch:type="MSShapeGroup" transform="translate(705.441341, 92.048801) scale(-1, 1) translate(-705.441341, -92.048801) "></path>
-            <path d="M472.090417,116.376173 L436.959264,66.0976013 L612.615028,66.0976013 L612.615028,116.376173 L472.090417,116.376173 L472.090417,116.376173 Z" id="Shape-copy" fill="#8F4E8B" sketch:type="MSShapeGroup" transform="translate(524.959264, 91.097601) rotate(-90.000000) translate(-524.959264, -91.097601) "></path>
-            <g id="Shape-copy-+-Shape-copy-2-+-Shape-copy-+-Shape-copy-3" transform="translate(89.500000, 90.500000) scale(-1, 1) translate(-89.500000, -90.500000) translate(0.000000, 1.000000)" fill="#8F4E8B" sketch:type="MSShapeGroup">
-                <g id="Shape-copy-+-Shape-copy-2">
-                    <path d="M44.7142857,178.995876 L9,128 L134,128 L134,179 L44.7142857,179 L44.7142857,178.995876 Z M35.8,51 L0,0 L179,0 L179,51 L35.8,51 L35.8,51 Z" id="Shape-copy" transform="translate(89.500000, 89.500000) rotate(180.000000) translate(-89.500000, -89.500000) "></path>
-                    <path d="M31.8,116 L-4,65 L175,65 L175,116 L31.8,116 L31.8,116 Z" id="Shape-copy-2" transform="translate(85.500000, 90.500000) rotate(-40.000000) translate(-85.500000, -90.500000) "></path>
-                </g>
-            </g>
-            <path d="M140.959264,66.0976013 L316.615028,66.0976013 L316.615028,88.5836495 C316.615026,97.8478238 316.615028,116.376173 316.615028,116.376173 L176.090417,116.376173 L140.959264,66.0976013 Z" id="Shape-copy-2" fill="#8F4E8B" sketch:type="MSShapeGroup" transform="translate(228.959264, 91.097601) rotate(-90.000000) translate(-228.959264, -91.097601) "></path>
-            <path d="M170.131153,51.6991579 L135,1.42058663 L310.655763,1.42058663 L310.655763,51.6991579 L170.131153,51.6991579 L170.131153,51.6991579 Z" id="Shape-copy-3" fill="#8F4E8B" sketch:type="MSShapeGroup"></path>
         </g>
+        <text id="S" fill="#433B5F" sketch:type="MSTextLayer" font-family="Futura" font-size="220" font-weight="bold">
+            <tspan x="-4" y="177.799927">S</tspan>
+        </text>
+        <text id="T" fill="#564C7B" sketch:type="MSTextLayer" font-family="Futura" font-size="220" font-weight="bold">
+            <tspan x="138.5" y="177.799927">T</tspan>
+        </text>
+        <text id="C" fill="#865288" sketch:type="MSTextLayer" font-family="Futura" font-size="220" font-weight="bold">
+            <tspan x="456" y="177.799927">C</tspan>
+        </text>
+        <text id="K" fill="#3B88AF" sketch:type="MSTextLayer" font-family="Futura" font-size="220" font-weight="bold">
+            <tspan x="598" y="177.799927">K</tspan>
+        </text>
     </g>
 </svg>
